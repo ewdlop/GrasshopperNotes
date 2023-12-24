@@ -1,4 +1,4 @@
-# GrasshopperNotes
+# Grasshopper Notes
 
 <img width="772" alt="attractorScript" src="https://github.com/ewdlop/GrasshopperNotes/assets/25368970/7b254a25-f779-4fed-8c43-65283eddf622">
 
